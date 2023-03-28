@@ -1,0 +1,10 @@
+The purpose of this window is to demonstrate how the program separates in groups
+Scopul acestei ferestre este de a demonstra cum programul separa pe grupe fiecare
+each square when a fence is placed, each color representing a group, with the
+patrat atunci cand este plasat un gard, fiecare culoare reprezentand o grupa,
+exception of the white color, which shows what square the program is currently
+cu exceptia culorii alb, culoare care arata ce patrat este verificat in acel
+checking. After that, in the base game, the program will check with the help of
+moment. Dupa, in jocul de baza, programul va verifica cu ajutorul acestor grupe
+theese groups to see if the level has been solved.
+daca nivelul a fost rezolvat.
